@@ -182,7 +182,7 @@
     "one_time_interaction_risk_message": "<1>{{ percentage }} per hour</1> baseline chance of transmission for each infected person nearby",
     "repeated_interaction_risk_message": "<1>{{ percentage }} per week</1> baseline chance of transmission for each infected person nearby",
     "partner_interaction_risk_message": "<1>{{ percentage }} per week</1> baseline chance of transmission if this person is infected",
-    "location_risk_message": "~{{ prevalence }} of people in your location are infectious right now",
+    "location_risk_message": "~{{ prevalence }} of people in your location are infectious right now, and we use that to estimate baseline chance of transmission per person around you given no further information about their history and habits.",
     "risk_group_empty_warning": "Enter your location first.",
     "alerts": {
       "vaccines_update_2": "<0>March 16th, 2021:</0> The Risk Tracker now allows you to model seeing someone else who has been vaccinated. Learn more <2>here</2>.",
